@@ -1,0 +1,10 @@
+com\Rupan\DefectTracker_assignment\model\Defect.class
+com\Rupan\DefectTracker_assignment\repository\EmpRepository.class
+com\Rupan\DefectTracker_assignment\model\Emp.class
+com\Rupan\DefectTracker_assignment\controller\DefectController.class
+com\Rupan\DefectTracker_assignment\model\Project.class
+com\Rupan\DefectTracker_assignment\repository\DefectRepository.class
+com\Rupan\DefectTracker_assignment\repository\ProjectRepository.class
+com\Rupan\DefectTracker_assignment\controller\EmpController.class
+com\Rupan\DefectTracker_assignment\controller\ProjectController.class
+com\Rupan\DefectTracker_assignment\DefectTrackerApplication.class
